@@ -31,11 +31,11 @@ public class Vehicle {
         System.out.println("stop method called - The vehicle is stopped");
     }
     public int getCurrentSpeed(){
-        return this.currentSpeed;
+        return currentSpeed;
     }
 
     public int getCurrentDirection() {
-        return this.currentDirection;
+        return currentDirection;
 
     }
     public String getName()
